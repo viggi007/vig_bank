@@ -11,4 +11,4 @@ A web application used to tranfer virtual money between multiple users and also 
 Flow : Home Page > View all customers > Select and View one customer > Transfer Money > Select customer to transfer to > View all Customers.
 
 # website link
-https://omk9420.github.io/Banking-system/
+https://viggi007.github.io/vig_bank/
